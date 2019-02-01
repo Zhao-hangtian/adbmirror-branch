@@ -1,4 +1,5 @@
-# 实现实时 Android to WIndows 画面捕捉与控制(基于sft的开源项目)
+# 实现实时 Android to WIndows 画面捕捉与控制
+# (基于sft的开源项目)
 ## require
 - python 3.6
 - adb-tools
