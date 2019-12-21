@@ -10,9 +10,9 @@
 ## usage 
 Run:  **(two step)**
 1.  Open terminal:
-    python3 start-mirror.py  ##  transfer minitouch, minicap, minitouch.so to your Android
+    `python3 start-mirror.py`  transfer minitouch, minicap, minitouch.so to your Android
 2.  In another terminal:
-    python gui.py 540x960 1080x1920 /data/local/tmp/adbmirror/
+    `python gui.py 540x960 1080x1920 /data/local/tmp/adbmirror/`
 	**Modify the size to reflect your phone**
 ## my modification
 1.	modify to adaptive to all screen size devices
