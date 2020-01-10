@@ -1,4 +1,4 @@
-# 实时 Android to WIndows 画面捕捉与控制(基于sft)
+# 实时 Android to Windows 画面捕捉与控制(基于sft)
 ## require
 - python 3.6
 - adb-tools
